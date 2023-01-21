@@ -66,3 +66,5 @@ or
 * [Spicetify](https://github.com/khanhas/spicetify-cli) users will need to reapply BlockTheSpot after applying a Spicetify patches.
 * If the automatic install/uninstall scripts do not work, please contact [Nuzair46](https://github.com/Nuzair46)
 * For more support and discussions, join our [Discord server](https://discord.gg/p43cusgUPm) 
+
+### --Rigved Soor
